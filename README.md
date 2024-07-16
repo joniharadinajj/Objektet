@@ -1,0 +1,2 @@
+# Objektet
+objektet ne python
